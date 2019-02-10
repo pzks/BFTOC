@@ -5,6 +5,7 @@
 
 欢迎加入HELO 计算机交流QQ群，群聊号码：644813094
 
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0210/210705_f9caf9bf_4803184.jpeg "untitled.jpg")
 #### 软件架构
 x86
 
